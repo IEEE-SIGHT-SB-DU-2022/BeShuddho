@@ -1,6 +1,6 @@
 # BeShuddho
 For the IEEE SIGHT funded project "BeShuddho: A Tank Based Water Purification System", all the materials, designs and code blocks are organized in this repository.
-## 2021 IEEE HAC/SIGHT Projects - Focus on COVID-19 Response [& Pressing Community Need (CfP2)] 
+## 2021 IEEE HAC/SIGHT Projects - Focus on COVID-19 Response [& Pressing Community Need (CfP2)]
 # Project Description
 
 In such an unrestrainedly industrializing and densely populated country like Bangladesh, clean drinking
@@ -17,11 +17,13 @@ an affordable, automated water purification system with impurity-detecting senso
 households of Bangladesh. The project "BeShuddho" is a system that will purify the WASA-supplied water
 when it enters the rooftop water tanks for the whole house (3+ families). At first, the system detects incoming
 water flow using sensors that trigger the purification system. The water must pass through a UV barrel that is
-compatible with the incoming water flow. And a microcontroller-controlled system controls UV-barrel filteration. 
+compatible with the incoming water flow. And a microcontroller-controlled system controls UV-barrel filteration.
 
-# Product Design 
-
-# PCB Design 
-
+# Product Design
+![product schematic](images/productSchematic.png)
+![final product](images/finalProduct.png)
+# PCB Design
+![pcb design](images/pcb.png)
+![pcb model](images/pcbModel.png)
 # Codes
-All the codes are present in the code folder. 
+see beshuddho.ino
