@@ -26,4 +26,4 @@ compatible with the incoming water flow. And a microcontroller-controlled system
 ![pcb design](images/pcb.png)
 ![pcb model](images/pcbModel.png)
 # Codes
-All the codes are present in the code folder.
+see beshuddho.ino
